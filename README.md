@@ -58,7 +58,7 @@
 </tr>
 <tr style="height: 422px;">
 <td style="width: 100%; height: 422px;">
-<p>This app template is provided under the&nbsp;<a href="https://github.com/OfficeDev/microsoft-teams-company-communicator-app/blob/master/LICENSE">MIT License</a>&nbsp;terms. In addition to these terms, by using this app template you agree to the following:</p>
+<p>This app template is provided under the&nbsp;<a href="https://github.com/gtrailway/Cleaning-App/blob/main/LICENSE">MIT License</a>&nbsp;terms. In addition to these terms, by using this app template you agree to the following:</p>
 <ul>
 <li>
 <p>You, not Govia Thameslink Railway, will license the use of your app to users or organization.</p>
