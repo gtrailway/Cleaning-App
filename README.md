@@ -8,7 +8,7 @@
 <td style="width: 100%; height: 375px;">
 <p><strong>Train Cleaning Input App:</strong></p>
 <p>An app for cleaning staff to input cleaning dates and times against set locations or trains. Based off a simple SharePoint list which is connected through the Power App data source.</p>
-<p>Recognising the user login it records who had input the clean and that is stored on SharePoint along with the time stamp.</p>
+<p> INSTALL THE .zip FILE ON POWER APPS - all guidance is within the Canvas app itself follow the simple steps to connect to a data course :)</p>
 <p>This then by Power Automate picked up and creates an Item in a separate SharePoint List which holds all historical records.</p>
 <p><strong>Key Features:</strong></p>
 <ul>
